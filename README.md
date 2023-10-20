@@ -26,4 +26,7 @@ classDiagram
         // Métodos de repositório
     }
 
+    QuoteService "1" -- "1" Quote : uses
+    QuoteService "1" -- "1" QuoteRepository : uses
+
 ```
