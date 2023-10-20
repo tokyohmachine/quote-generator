@@ -2,7 +2,7 @@
 
 Esse é um projeto criado usando todo o aprendizado no Bootcamp FullStack Java da Santander
 
-'''mermaid
+```mermaid
 classDiagram
     class Quote {
         - id: Long
@@ -26,6 +26,4 @@ classDiagram
         // Métodos de repositório
     }
 
-    QuoteService "1" --> "1" Quote : uses
-    QuoteService "1" --> "1" QuoteRepository : uses
-'''
+```
