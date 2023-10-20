@@ -1,10 +1,6 @@
 # Quote-generator
 
-Esse é um projeto criado usando todo o aprendizado no Bootcamp FullStack Java da Santander.
-
-# Projeto de Exemplo - Citações
-
-Este é um projeto de exemplo que demonstra um sistema de gerenciamento de citações. O projeto foi desenvolvido em Java usando o framework Spring Boot.
+Esse é um projeto que demonstra um sistema de gerenciamento de citações, criado usando todo o aprendizado no Bootcamp FullStack Java da Santander. O projeto foi desenvolvido em Java usando o framework Spring Boot.
 
 ## Funcionalidades
 
